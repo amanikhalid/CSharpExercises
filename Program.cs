@@ -117,11 +117,20 @@ namespace CSharpExercise
             //a = b;
             //b = c;
             //Console.WriteLine("After Swapping First Number = " + a + ", Second Number = " + b);
+            //------------------------------------------------------------------
 
+            //7. Days to Weeks and Days Converter
+            //Console.Write("Enter number of days: ");
+            //int days = int.Parse(Console.ReadLine());
+
+            //int weeks = days / 7;
+            //int remainingDays = days % 7;
+
+            //Console.WriteLine( days + " days = " + weeks + " week(s) and " + remainingDays + " day(s)");
 
             //---------------------------------------------(CSharpPart2Exercises)
 
-            //1. Simple Calculator (Switch Case)
+            //9. Simple Calculator (Switch Case)
             char choice;
             do
             {
